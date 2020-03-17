@@ -1,0 +1,9 @@
+#+TITLE: learn-bioinformatics
+
+* projects
+* courses
+* tips
+** parse SAM/BAM
+- samtools
+- pysam
+- simplesam
